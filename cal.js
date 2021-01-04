@@ -1,27 +1,4 @@
-///*let screen = document.getElementById('screen');
-/*buttons = document.querySelectorAll('button');
-for(item of buttons){
-    item.addEventListener('click',(e) =>{
-        buttontext = e.target.inner;
-        console.log("Button trxt is ", buttontext);
-        if(buttontext=='*'){
-            buttontext = '*';
-            screenvalue += buttontext;/
-            screen.value += buttontext;
-        } else if(){
 
-        } else if(){
-
-        } else if(){
-
-        } else if(){
-
-        } else if(){
-
-        }
-
-    })
-}*/
 //function for displaying values
 function dis(value)
 {
