@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+}
+
+#table1{
+    margin: auto;
+    margin-top: 20px;
+}
+input{
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+button{
+    font-size: 100px;
+    width: 73px;
+    height: 50px;
+}
+.cal{
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+}
